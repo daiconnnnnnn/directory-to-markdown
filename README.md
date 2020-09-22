@@ -10,7 +10,7 @@ $ cd <this-repo>
 $ perl conv.pl <target-dir>
 ```
 
-## example
+# example
 
 ## directory contents
 
